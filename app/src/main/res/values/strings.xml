@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">recycleViewList</string>
+    <string name="newTask">New Task</string>
+    <string name="addBut">Add</string>
+    <string name="description">description</string>
+    <string name="largeText">Large Text</string>
+    <string name="smallText">Small text</string>
+    <string name="title">Title</string>
+</resources>
